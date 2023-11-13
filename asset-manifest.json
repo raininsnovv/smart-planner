@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/smart-planner/static/css/main.f7cd8a4e.css",
+    "main.js": "/smart-planner/static/js/main.eb5f638b.js",
+    "index.html": "/smart-planner/index.html",
+    "main.f7cd8a4e.css.map": "/smart-planner/static/css/main.f7cd8a4e.css.map",
+    "main.eb5f638b.js.map": "/smart-planner/static/js/main.eb5f638b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f7cd8a4e.css",
+    "static/js/main.eb5f638b.js"
+  ]
+}
